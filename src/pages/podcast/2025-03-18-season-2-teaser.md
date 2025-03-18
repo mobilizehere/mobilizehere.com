@@ -9,6 +9,6 @@ episodeType: full
 episodeNumber: ""
 url: https://mobilize-podcast.s3.us-east-1.amazonaws.com/mobilize_S02_teaser_Final_2025-03-18.mp3
 length: "603000"
-duration: 38
+duration: 39
 explicit: no
 ---
